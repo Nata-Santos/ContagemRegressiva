@@ -7,3 +7,11 @@ Preparar...
 Apontar...
 FOGO!
 ```
+
+**Como Executar**
+
+Acesse a pasta e digite:
+
+```
+dotnet run
+```
